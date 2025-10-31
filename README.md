@@ -1,4 +1,4 @@
-# 🏦 Banking Application — твой мини-банк на React
+# 🏦 Banking Application — твой мини-банк
 
 [💳 Открыть демо](https://muslimevloev.github.io/Banking-application/)
 
@@ -29,8 +29,6 @@
 ## 🧩 Технологии
 | Технология |
 |-------------|
-| ⚛️ React | 
-| 💨 Vite | 
 | 🎨 CSS Modules | 
 | 🪄 JavaScript ES6+ | 
 | 🌐 GitHub Pages |
@@ -45,9 +43,3 @@
 
 ---
 
-## 🚀 Как запустить локально
-```bash
-git clone https://github.com/MuslimEvloev/Banking-application.git
-cd Banking-application
-npm install
-npm run dev
